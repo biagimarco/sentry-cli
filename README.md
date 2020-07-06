@@ -1,3 +1,7 @@
+# Deprecated
+The fix has been included in the original repo. Do not use this one
+
+## Description
 This is a fork of https://github.com/getsentry/sentry-cli where we update Alpine from 3.7 to 3.12.
 The reason is that bug:
 https://github.com/getsentry/sentry-cli/issues/751
